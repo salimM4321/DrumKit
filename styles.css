@@ -86,7 +86,7 @@ footer {
   margin: 10px;
   background-color: white;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
 
   h1 {
     font-size: 3rem;
