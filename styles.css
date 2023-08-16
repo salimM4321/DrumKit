@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: #283149;
+  position:fixed;
 }
 
 h1 {
@@ -44,6 +45,7 @@ footer {
 
 .k {
   background-image: url(./images/kick.png);
+
 
 }
 
@@ -118,7 +120,7 @@ footer {
     align-items: center;
   } */
   .fontst{
-  font-size: 100px;
+  font-size: 200px;
  }
   .w {
     background-image: url(./images/tom4.png);
