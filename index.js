@@ -6,7 +6,7 @@ document.querySelectorAll(".drum")[i].addEventListener("click", function(){
 
     // alert("I got clicked");
     // console.log(this.style.co);
- this.style.color="black";
+// this.style.color="black";
 
  var buttonInnerHTML = this.innerHTML;
 
