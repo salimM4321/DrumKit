@@ -15,9 +15,7 @@ footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
- .fontst{
-   font-size: 30px;
- }
+
 
 .w {
   background-image: url(./images/tom4.png);
@@ -118,7 +116,9 @@ footer {
     justify-content: center;
     align-items: center;
   } */
-   
+  .fontst{
+  font-size: 80px;
+ }
   .w {
     background-image: url(./images/tom4.png);
     width: 150px;
